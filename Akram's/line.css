@@ -1,0 +1,12 @@
+div.container
+{
+  height:300px;
+  width:300px;
+  margin:10px auto;
+  padding-top:100px;
+}
+hr.line1{
+ 	border-top: 1px solid rgb(17, 1, 1); 
+  width: 90%;
+}
+
